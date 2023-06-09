@@ -1,0 +1,1 @@
+cmd_/home/plm/桌面/oslabfinal/v7/os.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/plm/桌面/oslabfinal/v7/os.ko /home/plm/桌面/oslabfinal/v7/os.o /home/plm/桌面/oslabfinal/v7/os.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/plm/桌面/oslabfinal/v7/Module.symvers := sed 's/ko$$/o/' /home/plm/桌面/oslabfinal/v7/modules.order | scripts/mod/modpost -m -a  -o /home/plm/桌面/oslabfinal/v7/Module.symvers -e -i Module.symvers   -T -
